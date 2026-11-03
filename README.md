@@ -1,2 +1,2 @@
 # more-about-me
-stuff about me
+so I am making a special website like a web proxy so I need your help making it with me since I am horrible at wiring stuff on GitHub then the GitHub domain crashes I try to wire it on codehs, its too big to load the code in, also it goes through a filter that will still not allow it I tried code academy you can't upload files, so I am asking you what can I use to make a proxy and post it using a free domain and I would fucking hate using sum shit like base44, those type AI pmfao and yes I tried vscode and vscode.dev/the demo of vscode then don't give free domains they give you the code, so give me any website I can use that lets me code and gives a free domain, if I cant get any site, *SIGH* I'ma have to use a shitty AI like base44
